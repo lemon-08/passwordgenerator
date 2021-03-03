@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lobster';
+    color: white;
+}
+body{
+    background-color: rgb(14, 34, 64);
+}
+.heading h1{
+    font-weight: bold;
+    font-size: 60px;
+    padding: 20px;
+    color: white;
+    font-family: 'Lobster';
+    position: sticky;
+}
+.line{
+    background-color: white;
+    
+}
+.custom-control{
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+}
